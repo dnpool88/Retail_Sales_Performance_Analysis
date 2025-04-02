@@ -103,8 +103,8 @@ The first step involved querying the database to extract relevant sales data, fo
 [Sales Visualizations on Tableau Public](https://public.tableau.com/views/Sales_Visualizations/CategoricalSpendingDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### **Dashboard Previews:**
-![Categorical Spending Dashboard](/Users/dylanpool/Desktop/Side_Projects/Sales_Data/Categorical_Spending_Dashboard.png)
-![Time-Focused Dashboard](/Users/dylanpool/Desktop/Side_Projects/Sales_Data/Time-Focused_Dashboard.png)
+![Categorical Spending Dashboard](./Categorical_Spending_Dashboard.png)
+![Time-Focused Dashboard](./Time-Focused_Dashboard.png)
 
 ---
 
